@@ -5,9 +5,9 @@ Discover the latest `<crypto/>` moves in my Telegram Channel:
 
 [![My Channel 🥰](https://img.shields.io/badge/Web3_Enjoyer_|_Subscribe_🥰-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/null_company) 
 
-Cheapest proxies and servers which fits for grass [here](https://t.me/null_company).
+Cheapest proxies and servers which fits for grass [here](https://t.me/null_company) https://t.me/web3_enjoyer_club.
 
-![image](https://github.com/tera2206)
+
 
 
 Bot can be used to create accounts and farm points on [grass.io](https://app.getgrass.io/register/?referralCode=erxggzon61FWrJ9)
